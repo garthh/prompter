@@ -2,9 +2,14 @@ prompter
 ========
 
 Domaine: jeux de rôles
+
 Format d'application: application serveur / client web
+
 Plateforme: toutes
+
 Langage: Python/Django
+
+
 
 Prompter est une application pour assister le maître de jeu dans l'animation d'une partie de jeux de rôles. Prompter permet de :
 - suivre votre aventure en la découpant en actes et en scènes
